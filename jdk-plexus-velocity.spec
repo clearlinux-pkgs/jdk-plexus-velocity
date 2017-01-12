@@ -4,7 +4,7 @@
 #
 Name     : jdk-plexus-velocity
 Version  : 1.2
-Release  : 1
+Release  : 2
 URL      : https://github.com/codehaus-plexus/plexus-velocity/archive/plexus-velocity-1.2.tar.gz
 Source0  : https://github.com/codehaus-plexus/plexus-velocity/archive/plexus-velocity-1.2.tar.gz
 Summary  : No detailed summary available
